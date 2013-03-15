@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640px"
+   height="480px"
+   id="svg7287"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="track1.svg">
+  <defs
+     id="defs7289">
+    <pattern
+       id="SVGID_21_"
+       xlink:href="#SVGID_5_"
+       patternTransform="matrix(1.0335 -1.0214 -1.0335 -1.0214 1026.002 -16349.666)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_5_"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5589">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5591" />
+        <g
+           id="g5593">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5595" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5597" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5599" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5601" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5603" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5605" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5607" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5609" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5611" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5613" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5615" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5617" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5619" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5621" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5623" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5625" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5627" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_20_"
+       xlink:href="#SVGID_4_"
+       patternTransform="matrix(-1.0214 -1.0335 -1.0214 1.0335 -35064.582 15514.1602)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_4_"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5548">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5550" />
+        <g
+           id="g5552">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5554" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5556" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5558" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5560" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5562" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5564" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5566" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5568" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5570" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5572" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5574" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5576" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5578" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5580" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5582" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5584" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5586" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_21_-5"
+       xlink:href="#SVGID_5_-2"
+       patternTransform="matrix(1.0335 -1.0214 -1.0335 -1.0214 1026.002 -16349.666)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_5_-2"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5589-7">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5591-6" />
+        <g
+           id="g5593-1">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5595-4" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5597-2" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5599-3" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5601-2" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5603-2" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5605-1" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5607-6" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5609-8" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5611-5" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5613-7" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5615-6" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5617-1" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5619-8" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5621-9" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5623-2" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5625-7" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5627-9" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_22_"
+       xlink:href="#SVGID_6_"
+       patternTransform="matrix(1.0214 1.0335 1.0214 -1.0335 1025.8389 -16822.1211)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_6_"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5630">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5632" />
+        <g
+           id="g5634">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5636" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5638" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5640" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5642" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5644" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5646" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5648" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5650" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5652" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5654" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5656" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5658" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5660" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5662" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5664" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5666" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5668" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_20_-5"
+       xlink:href="#SVGID_4_-4"
+       patternTransform="matrix(-1.0214 -1.0335 -1.0214 1.0335 -35064.582 15514.1602)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_4_-4"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5548-3">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5550-1" />
+        <g
+           id="g5552-2">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5554-3" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5556-3" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5558-4" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5560-1" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5562-1" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5564-3" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5566-8" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5568-7" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5570-4" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5572-2" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5574-7" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5576-7" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5578-9" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5580-3" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5582-1" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5584-9" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5586-8" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_19_"
+       xlink:href="#SVGID_3_"
+       patternTransform="matrix(-1.0335 1.0214 1.0335 1.0214 -35237.5859 14420.7617)" />
+    <pattern
+       x="716"
+       y="1282"
+       width="192"
+       height="96"
+       patternUnits="userSpaceOnUse"
+       id="SVGID_3_"
+       viewBox="0 -96 192 96"
+       overflow="visible">
+      <g
+         id="g5507">
+        <polygon
+           fill="none"
+           points="0,0 192,0 192,-96 0,-96   "
+           id="polygon5509" />
+        <g
+           id="g5511">
+          <polygon
+             fill="none"
+             points="0,-96 192,-96 192,0 0,0    "
+             id="polygon5513" />
+          <polygon
+             fill="#E6E6E6"
+             points="12,-96 0,-96 0,0 12,0    "
+             id="polygon5515" />
+          <polygon
+             fill="#C1272D"
+             points="24,-96 12,-96 12,0 24,0    "
+             id="polygon5517" />
+          <polygon
+             fill="#E6E6E6"
+             points="36,-96 24,-96 24,0 36,0    "
+             id="polygon5519" />
+          <polygon
+             fill="#C1272D"
+             points="48,-96 36,-96 36,0 48,0    "
+             id="polygon5521" />
+          <polygon
+             fill="#E6E6E6"
+             points="60,-96 48,-96 48,0 60,0    "
+             id="polygon5523" />
+          <polygon
+             fill="#C1272D"
+             points="72,-96 60,-96 60,0 72,0    "
+             id="polygon5525" />
+          <polygon
+             fill="#E6E6E6"
+             points="84,-96 72,-96 72,0 84,0    "
+             id="polygon5527" />
+          <polygon
+             fill="#C1272D"
+             points="96,-96 84,-96 84,0 96,0    "
+             id="polygon5529" />
+          <polygon
+             fill="#E6E6E6"
+             points="108,-96 96,-96 96,0 108,0    "
+             id="polygon5531" />
+          <polygon
+             fill="#C1272D"
+             points="120,-96 108,-96 108,0 120,0    "
+             id="polygon5533" />
+          <polygon
+             fill="#E6E6E6"
+             points="132,-96 120,-96 120,0 132,0    "
+             id="polygon5535" />
+          <polygon
+             fill="#C1272D"
+             points="144,-96 132,-96 132,0 144,0    "
+             id="polygon5537" />
+          <polygon
+             fill="#E6E6E6"
+             points="156,-96 144,-96 144,0 156,0    "
+             id="polygon5539" />
+          <polygon
+             fill="#C1272D"
+             points="168,-96 156,-96 156,0 168,0    "
+             id="polygon5541" />
+          <polygon
+             fill="#E6E6E6"
+             points="180,-96 168,-96 168,0 180,0    "
+             id="polygon5543" />
+          <polygon
+             fill="#C1272D"
+             points="192,-96 180,-96 180,0 192,0    "
+             id="polygon5545" />
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.095627"
+     inkscape:cx="395.15169"
+     inkscape:cy="359.73018"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     objecttolerance="20"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="false" />
+  <metadata
+     id="metadata7292">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.5,0,0,0.5,-421.82205,56.597)"
+       id="g5793">
+      <rect
+         style="fill:#4d4d4d"
+         x="888"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5795" />
+      <rect
+         style="fill:#e6e6e6"
+         x="1074"
+         y="312"
+         width="3"
+         height="192"
+         id="rect5797" />
+      <rect
+         style="fill:#e6e6e6"
+         x="891"
+         y="312"
+         width="3"
+         height="192"
+         id="rect5799" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-163.82156,-99.402)"
+       id="g5899">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-1.8220483,-519.403)"
+       id="g5857">
+      <g
+         id="g5859">
+        <pattern
+           id="pattern7704"
+           xlink:href="#SVGID_5_-2"
+           patternTransform="matrix(1.0335 -1.0214 -1.0335 -1.0214 1026.002 -16349.666)" />
+        <path
+           style="fill:url(#SVGID_21_-5)"
+           inkscape:connector-curvature="0"
+           d="M 58.771,1464 H 74.31 L 170.293,1274.292 360,1178.311 v -15.537 c -15.134,-4.938 -39.34,-10.772 -69.333,-10.772 -51.725,0 -120.595,17.37 -172.501,69.342 l -0.007,-0.01 c -0.133,0.133 -0.259,0.27 -0.392,0.399 -0.144,0.144 -0.29,0.28 -0.434,0.426 l 0.008,0.01 C 65.369,1274.072 48,1342.943 48,1394.666 c 0,29.994 5.833,54.199 10.771,69.334 z"
+           id="path5862" />
+      </g>
+      <path
+         style="fill:#4d4d4d"
+         inkscape:connector-curvature="0"
+         d="m 240,1464 c 0,-66.274 53.726,-120 120,-120 v -192 c -172.312,0 -312,139.688 -312,312 h 192 z"
+         id="path5864" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 54,1464 c 0,-168.996 137.004,-306 306,-306 v -3 c -170.654,0 -309,138.346 -309,309 h 3 z"
+         id="path5866" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 237,1464 c 0,-67.927 55.073,-123 123,-123 v -3 c -69.585,0 -126,56.415 -126,126 h 3 z"
+         id="path5868" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,277.70163,-519.13475)"
+       id="g5870">
+      <g
+         id="g5872">
+        <pattern
+           id="pattern7807"
+           xlink:href="#SVGID_6_"
+           patternTransform="matrix(1.0214 1.0335 1.0214 -1.0335 1025.8389 -16822.1211)" />
+        <path
+           style="fill:url(#SVGID_22_)"
+           inkscape:connector-curvature="0"
+           d="m 372,1162.771 v 15.537 l 189.708,95.983 95.981,189.709 h 15.537 c 4.938,-15.134 10.772,-39.34 10.772,-69.333 0,-51.725 -17.37,-120.595 -69.342,-172.501 l 0.009,-0.01 c -0.133,-0.133 -0.269,-0.259 -0.399,-0.392 -0.144,-0.145 -0.28,-0.291 -0.426,-0.435 l -0.009,0.01 C 561.928,1169.369 493.057,1152 441.334,1152 c -29.994,0 -54.199,5.833 -69.334,10.771 z"
+           id="path5875" />
+      </g>
+      <path
+         style="fill:#4d4d4d"
+         inkscape:connector-curvature="0"
+         d="m 372,1344 c 66.274,0 120,53.726 120,120 h 192 c 0,-172.312 -139.688,-312 -312,-312 v 192 z"
+         id="path5877" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 372,1158 c 168.996,0 306,137.004 306,306 h 3 c 0,-170.654 -138.346,-309 -309,-309 v 3 z"
+         id="path5879" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 372,1341 c 67.927,0 123,55.073 123,123 h 3 c 0,-69.585 -56.415,-126 -126,-126 v 3 z"
+         id="path5881" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-1.82205,-429.403)"
+       id="g5844">
+      <g
+         id="g5846">
+        <pattern
+           id="pattern7910"
+           xlink:href="#SVGID_4_-4"
+           patternTransform="matrix(-1.0214 -1.0335 -1.0214 1.0335 -35064.582 15514.1602)" />
+        <path
+           style="fill:url(#SVGID_20_-5)"
+           inkscape:connector-curvature="0"
+           d="m 360,1777.229 v -15.537 L 170.292,1665.709 74.311,1476 H 58.772 C 53.834,1491.134 48,1515.34 48,1545.333 c 0,51.725 17.37,120.595 69.342,172.501 l -0.009,0.01 c 0.133,0.133 0.269,0.259 0.399,0.392 0.144,0.145 0.281,0.291 0.426,0.435 l 0.009,-0.01 c 51.905,51.971 120.776,69.34 172.499,69.34 29.994,0 54.199,-5.833 69.334,-10.771 z"
+           id="path5849" />
+      </g>
+      <path
+         style="fill:#4d4d4d"
+         inkscape:connector-curvature="0"
+         d="m 360,1596 c -66.274,0 -120,-53.726 -120,-120 H 48 c 0,172.312 139.688,312 312,312 v -192 z"
+         id="path5851" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="M 360,1782 C 191.004,1782 54,1644.996 54,1476 h -3 c 0,170.654 138.346,309 309,309 v -3 z"
+         id="path5853" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 360,1599 c -67.927,0 -123,-55.073 -123,-123 h -3 c 0,69.585 56.415,126 126,126 v -3 z"
+         id="path5855" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,277.69647,-429.13475)"
+       id="g5831">
+      <g
+         id="g5833">
+        <pattern
+           id="pattern8013"
+           xlink:href="#SVGID_3_"
+           patternTransform="matrix(-1.0335 1.0214 1.0335 1.0214 -35237.5859 14420.7617)" />
+        <path
+           style="fill:url(#SVGID_19_)"
+           inkscape:connector-curvature="0"
+           d="M 673.229,1476 H 657.69 L 561.707,1665.708 372,1761.689 v 15.537 c 15.134,4.938 39.34,10.772 69.333,10.772 51.725,0 120.595,-17.37 172.501,-69.342 l 0.007,0.01 c 0.133,-0.133 0.259,-0.27 0.393,-0.399 0.144,-0.144 0.29,-0.28 0.434,-0.426 l -0.008,-0.01 C 666.631,1665.928 684,1597.057 684,1545.334 684,1515.34 678.167,1491.135 673.229,1476 z"
+           id="path5836" />
+      </g>
+      <path
+         style="fill:#4d4d4d"
+         inkscape:connector-curvature="0"
+         d="m 492,1476 c 0,66.274 -53.726,120 -120,120 v 192 c 172.312,0 312,-139.688 312,-312 H 492 z"
+         id="path5838" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 678,1476 c 0,168.996 -137.004,306 -306,306 v 3 c 170.654,0 309,-138.346 309,-309 h -3 z"
+         id="path5840" />
+      <path
+         style="fill:#e6e6e6"
+         inkscape:connector-curvature="0"
+         d="m 495,1476 c 0,67.927 -55.073,123 -123,123 v 3 c 69.585,0 126,-56.415 126,-126 h -3 z"
+         id="path5842" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-67.82156,-99.402)"
+       id="g5899-6">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901-5" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903-0" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905-2" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-163.82156,212.5975)"
+       id="g5899-8">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901-6" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903-02" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905-4" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,-67.82156,212.5975)"
+       id="g5899-8-6">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901-6-1" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903-02-3" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905-4-8" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,28.17844,212.5975)"
+       id="g5899-8-6-9">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901-6-1-3" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903-02-3-4" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905-4-8-4" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,79.701633,56.86525)"
+       id="g5793-6">
+      <rect
+         style="fill:#4d4d4d"
+         x="888"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5795-0" />
+      <rect
+         style="fill:#e6e6e6"
+         x="1074"
+         y="312"
+         width="3"
+         height="192"
+         id="rect5797-6" />
+      <rect
+         style="fill:#e6e6e6"
+         x="891"
+         y="312"
+         width="3"
+         height="192"
+         id="rect5799-6" />
+    </g>
+    <g
+       transform="matrix(0.5,0,0,0.5,28.17844,-99.402)"
+       id="g5899-6-1">
+      <rect
+         style="fill:#4d4d4d"
+         x="683.99902"
+         y="312"
+         width="192"
+         height="192"
+         id="rect5901-5-8" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="315"
+         width="192"
+         height="3"
+         id="rect5903-0-4" />
+      <rect
+         style="fill:#e6e6e6"
+         x="683.99902"
+         y="498"
+         width="192"
+         height="3"
+         id="rect5905-2-9" />
+    </g>
+  </g>
+</svg>

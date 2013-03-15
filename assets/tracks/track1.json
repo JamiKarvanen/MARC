@@ -1,0 +1,40 @@
+{ "height":4,
+ "layers":[
+        {
+         "data":[2, 3, 0, 0, 0, 0, 0, 0, 4, 9, 11, 3, 2, 11, 7, 3, 6, 0, 0, 9, 10, 2, 3, 4, 9, 7, 7, 7, 5, 10, 9, 10],
+         "height":4,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "tileheight":200,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/images\/marc_tiles\/tileset200.png",
+         "imageheight":400,
+         "imagewidth":1400,
+         "margin":0,
+         "name":"200px",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tileheight":200,
+         "tilewidth":200,
+         "transparentcolor":"#ff00ff"
+        }],
+ "tilewidth":200,
+ "version":1,
+ "width":8
+}

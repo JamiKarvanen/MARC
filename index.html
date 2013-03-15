@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mega Awesome Race Cars!</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles.css" media="screen">
+    <meta charset="utf-8">
+</head>
+<body>
+
+
+    <canvas id="trackcanvas" class="gamecanvas">
+    </canvas>
+    <canvas id="gamecanvas" class="gamecanvas">
+    </canvas>
+
+
+    <div id="scorescreen" class="gamelayer">
+        <p id="currentlap">Current lap: <span></span></p>
+        <p id="lap1">Lap 1: <span></span></p>
+        <p id="lap2">Lap 2: <span></span></p>
+        <p id="lap3">Lap 3: <span></span></p>
+    </div>
+
+    <div id="gamestartscreen" class="gamelayer">
+        <div class="button" onclick="game.showLevelScreen();">
+            <p>Singleplayer</p>
+        </div><br>
+        <div class="button" onclick="multiplayer.start();">
+            <p>Multiplayer</p>
+        </div>
+        <div class="button">
+            <p>Settings</p>
+        </div>
+    </div>
+
+    <div id="levelselectscreen" class="gamelayer">
+    </div>
+
+    <div id="loadingscreen" class="gamelayer">
+        <div id="loadingmessage"></div>
+    </div>
+
+    <div id="endingscreen" class="gamelayer">
+        <div id="message"><p>Your best lap was: <span>00:00:00</span></p>
+            <img id="replaybutton" onclick="game.reset();" src="assets/images/icons/replay.png">
+            <img id="menubutton" onclick="game.init();" src="assets/images/icons/mainmenu.png">
+        </div>
+    </div>
+
+    <div id="multiplayerlobbyscreen" class="gamelayer">
+        <select id="multiplayergameslist" size="10"></select>
+        <input type="button" id="multiplayerjoin" onclick="multiplayer.join();">
+        <input type="button" id="multiplayercancel" onclick="multiplayer.cancel();">
+    </div>
+
+
+
+<div id="help">
+    <p>The game is on alpha-state, so no working multiplayer, guns or different tracks yet. Please also note that it has only been tested on Google Chrome.</p>
+    <p>Use arrowkeys to drive</p>
+</div>
+<canvas id="debugcanvas" width="1280" height="720" style="border:1px solid black;"></canvas>
+
+
+<!-- javascript -->
+<script type="text/javascript" src="assets/libs/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="assets/libs/Box2dWeb-2.1.a.3.min.js"></script>
+<script type="text/javascript" src="assets/js/box2d.js"></script>
+<script type="text/javascript" src="assets/js/entities.js"></script>
+<script type="text/javascript" src="assets/js/keyhandler.js"></script>
+<script type="text/javascript" src="assets/js/loader.js"></script>
+<script type="text/javascript" src="assets/js/timer.js"></script>
+<script type="text/javascript" src="assets/js/tracks.js"></script>
+<script type="text/javascript" src="assets/js/multiplayer.js"></script>
+<script type="text/javascript" src="assets/js/game.js"></script>
+
+</body>
+</html>

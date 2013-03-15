@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="websocketclient.js"></script>
+</head>
+<body onload="initWebSocket();">
+    <label for="message">Message</label><input type="text" value="Simple message" size="40" id="message">
+    <input type="button" value="Send" id="sendmessage" onclick="SendMessage();" disabled="true">
+    <div id="displaydiv" style="border:1px solid black;width:600px; height:400px; font-size:14px;"></div>
+</body>
+</html>

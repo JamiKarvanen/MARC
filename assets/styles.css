@@ -1,0 +1,170 @@
+#gamecontainer {
+    background: url(images/splash.png);
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.gamelayer {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+}
+.gamecanvas {
+    position:absolute;
+    display:none;
+}
+
+#gamestartscreen {
+    cursor: pointer;
+
+    /* Firefox */
+    display:-moz-box;
+    -moz-box-orient:horizontal;
+    -moz-box-pack:center;
+    -moz-box-align:center;
+
+    /* Safari and Chrome */
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+    -webkit-box-pack:center;
+    -webkit-box-align:center;
+
+    /* W3C */
+    display:box;
+    box-orient:horizontal;
+    box-pack:center;
+    box-align:center;
+}
+
+.button {
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -border-radius: 20px;
+    background-color: black;
+    padding: 5px;
+    width: 130px;
+    color: white;
+    margin-left: 10px;
+    text-align: center;
+}
+
+#levelselectscreen {
+    padding-top: 250px;
+    padding-left: 50px;
+}
+
+#levelselectscreen input {
+    magin: 20px;
+    cursor: pointer;
+    background: url(images/icons/level.png) no-repeat;
+    color: yellow;
+    font-size: 20px;
+    width:64px;
+    height:64px;
+    border:0;
+}
+
+#loadingscreen {
+    background:rgba(100,100,100,0.3);
+}
+#loadingmessage {
+    margin-top: 400px;
+    text-align: center;
+    height: 48px;
+    color: white;
+    background: url(images/loader.gif) no-repeat center;
+    font: 12px Arial;
+}
+
+#scorescreen {
+    margin-top: 200px;
+    margin-left: 1300px;
+}
+#scorescreen p {
+    margin: 0px;
+}
+
+#trackcanvas {
+    background-color: green;
+}
+
+#endingscreen #message{
+    background-color: rgb(0,0,0);
+    color: white;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 275px;
+    padding-bottom: 30px;
+    width: 250px;
+
+}
+#endingscreen {
+    padding-top: 250px;
+    width: 800px;
+    height: 350px;
+    background:rgba(100,100,100,0.7);
+}
+#endingscreen img {
+    height: 50px;
+    width: 50px;
+    display: inline;
+
+}
+
+#multiplayerlobbyscreen input[type="button"] {
+    background-image: url(assets/images/buttons.png);
+    position: absolute;
+    border-width: 0px;
+    padding: 0px;
+}
+#multiplayerjoin {
+    background-position: -2px -212;
+    top: 250px;
+    left: 50px;
+    width: 100px;
+    height: 50px;
+}
+#multiplayerjoin:active, #multiplayerjoin:disabled {
+    background-position: -2px -247px;
+}
+#multiplayercancel {
+    background-position: -86px -150px;
+    left: 50px;
+    top: 320px;
+    width: 100px;
+    height: 50px;
+}
+#multiplayercancel:active, #multiplayercancel:disabled {
+    background-position: 86px -184px;
+}
+#multiplayergameslist {
+    padding: 20px;
+    position: absolute;
+    width: 490px;
+    height: 338px;
+    top: 230px;
+    left: 165px;
+    background: rgba(0,0,0,0.7);
+    border: none;
+    color: gray;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#multiplayergameslist:focus {
+    outline:none;
+}
+#multiplayergameslist option.running {
+    color: gray;
+}
+#multiplayergameslist option.waiting {
+    color: green;
+}
+#multiplayergameslist option.empty {
+    color: lightblue;
+}
